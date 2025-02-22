@@ -11,6 +11,7 @@ The **Book Management System** is a web-based API built using **ASP.NET Core Web
 ✔️ **Check Popularity**: Retrieve books based on their **popularity count**.  
 ✔️ **Database Integration**: Uses **SQL Server** for data storage.  
 ✔️ Implements **Unit of Work and Repository Pattern** for efficient data management.  
+✔️ Implements **RESTful API** structure. 
 
 ---
 
@@ -18,6 +19,7 @@ The **Book Management System** is a web-based API built using **ASP.NET Core Web
 🔹 **Backend**: ASP.NET Core Web API (.NET 8)  
 🔹 **Database**: SQL Server (EF Core)
 🔹 **Architecture**: 3-Layer Architecture  
+🔹 **Documentation**: Swagger UI
 
 ---
 
