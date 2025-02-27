@@ -1,4 +1,4 @@
-# **Book Management System API**  
+# **Book Management System API Project**  
 
 ## **Introduction**  
 The **Book Management System** is a web-based API built using **ASP.NET Core Web API**. It follows a **3-layer architecture** to separate concerns and improve maintainability. Users can efficiently manage books by performing CRUD operations such as **adding, updating, deleting, and viewing books**.  
